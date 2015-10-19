@@ -1,3 +1,5 @@
+# Copied from [here](https://github.com/evanw/packer) fixed jsdom version issue
+
 # packer.js
 
 This is a simple port of [/packer/](http://dean.edwards.name/packer/) by Dean Edwards to node.js.
